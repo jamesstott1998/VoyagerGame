@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Vidaloka', serif;
+}
+
+
+.gamestarting{
+    background-image: url("./VoyagerFrontWithSpeech.jpg");
+    background-size: 100% 100%;
+    color: black;
+    text-align: center;
+    height:100vh;
+}
+
+
+.Gamebutton {
+    padding: 30px;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 30%;
+    border: 2px solid black;
+    font-family: 'Droid Serif', serif;
+    letter-spacing: 2px;
+    text-shadow: 0.5px 0.5px 0.5px black;
+    margin-bottom: 920px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
